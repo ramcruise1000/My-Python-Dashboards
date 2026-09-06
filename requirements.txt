@@ -1,0 +1,8 @@
+streamlit>=1.28
+yfinance
+pandas
+numpy
+openpyxl
+xlsxwriter
+nselib
+requests
